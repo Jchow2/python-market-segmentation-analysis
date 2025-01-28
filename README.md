@@ -162,6 +162,7 @@ The results, including visualizations and data analysis, will be generated and s
 
 # **Project Structure**
 
+```bash
 /project-root
     ├── data                     # Directory for raw and processed data
     │   ├── raw                  # Raw data files
@@ -184,6 +185,7 @@ The results, including visualizations and data analysis, will be generated and s
     ├── results                  # Directory to save results and visualizations
     ├── README.md                # Project README file
     ├── requirements.txt         # List of dependencies
+```
 
 ---
 
@@ -217,11 +219,13 @@ In this project, we use t-Distributed Stochastic Neighbor Embedding (t-SNE) to v
 
 We welcome contributions to this project! If you would like to contribute, please follow these steps:
 
+```bash
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
+```bash
 
 Please ensure that your code adheres to our coding standards and includes appropriate tests. Thank you for your contributions!
 
