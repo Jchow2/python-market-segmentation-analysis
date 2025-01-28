@@ -191,8 +191,6 @@ The results, including visualizations and data analysis, will be generated and s
 
 # **Result**
 
-![PCA of clusters](PCA_of_clusters.png)
-
 ## **PCA of Clusters**
 
 ![PCA of clusters](PCA_of_clusters.png)
