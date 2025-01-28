@@ -223,7 +223,7 @@ We welcome contributions to this project! If you would like to contribute, pleas
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-```bash
+```
 
 Please ensure that your code adheres to our coding standards and includes appropriate tests. Thank you for your contributions!
 
