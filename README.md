@@ -204,7 +204,7 @@ The PCA plot shows how the data points (traders and farmers) are distributed in 
 
 ## **t-SNE with Different Perplexity and Learning Rates**
 
-![t-SNE training](t-SNE with Different Preplexity and Learning Rates.png)
+![t-SNE with Different Preplexity and Learning Rates](t-SNE_with_Different_Preplexity_and_Learning_Rates.png)
 
 - **At lower perplexity values (5)**, the clusters are more distinct and well-separated, especially at lower learning rates (10 and 100). However, the clusters become more elongated and less distinct.
 - **At higher perplexity values (30 and 50)**, the clusters are less distinct and more scattered, especially at higher learning rates (100 and 200).
