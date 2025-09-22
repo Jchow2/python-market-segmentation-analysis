@@ -202,11 +202,25 @@ The PCA plot shows how the data points (traders and farmers) are distributed in 
 - **Cluster Density**: Both clusters are densely packed, indicating that the data points within each cluster are similar to each other.
 - **Cluster Size**: The blue cluster appears to be larger than the green cluster, suggesting that there are more data points in the `"second"` group compared to the `"first"` group.
 
+## **t-SNE with Different Perplexity and Learning Rates**
+
+![t-SNE training](t-SNE with Different Preplexity and Learning Rates.png)
+
+- **At lower perplexity values (5)**, the clusters are more distinct and well-separated, especially at lower learning rates (10 and 100). However, the clusters become more elongated and less distinct.
+- **At higher perplexity values (30 and 50)**, the clusters are less distinct and more scattered, especially at higher learning rates (100 and 200).
+- **Lower learning rates (10)** tend to produce more compact and well-defined clusters across all perplexity values.
+- **Higher learning rates (200)** tend to produce more scattered and less distinct clusters, indicating that the learning rate might be too high for effective clustering.
+
+Based on the t-SNE training set:
+- **Lower perplexity values (5)*** seem to produce more meaningful and distinct clusters, especially at lower learning rates.
+- **Higher perplexity values (30 and 50)** result in more scattered and less distinct clusters, suggesting that these values might be too high for the given data.
+
+
 ## **t-SNE of Clusters**
 
 ![t-SNE of clusters](t-SNE_of_clusters.png)
 
-In this project, we use t-Distributed Stochastic Neighbor Embedding (t-SNE) to visualize clusters in a lower-dimensional space, enhanced by first applying Principal Component Analysis (PCA) to reduce dimensionality. This combination leverages PCA to preserve global structure and t-SNE to capture local relationships, providing a detailed visualization of similar data point groups.
+In this project, we utilize t-Distributed Stochastic Neighbor Embedding (t-SNE) to visualize clusters in a lower-dimensional space, which is enhanced by first applying Principal Component Analysis (PCA) to reduce dimensionality. This combination leverages PCA to preserve global structure and t-SNE to capture local relationships, providing a detailed visualization of similar data point groups.
 
 - **Clusters**: The t-SNE plot shows distinct clusters, indicating clear groupings within the data.
 - **Cluster Separation**: The clear separation suggests that t-SNE has effectively identified distinct groups, crucial for understanding different segments of traders and farmers.
