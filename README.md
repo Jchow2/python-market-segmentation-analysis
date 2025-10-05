@@ -226,6 +226,9 @@ In this project, we utilize t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 # **License**
 This project is licensed under the MIT License.
 
+**License & Usage Disclaimer**
+This repository's code is licensed under the MIT License. This license applies only to the software and methodology contained within the code files. The project utilized historical data provided for a competition and is intended strictly for portfolio demonstration and educational purposes. The MIT License does not extend to the competition dataset or grant rights to any proprietary data or content belonging to the non-profit or partnering organizations.
+
 # **Acknowledgements**
 
 We would like to thank the following individuals and organizations for their support and contributions to this project:
