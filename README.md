@@ -251,7 +251,5 @@ We would like to thank the following individuals and organizations for their sup
 - **Contributors**: Justin Chow, Kyle Kehoe, Anoushka Nayah, Priyansha Rastogi
 - **Organizations**: Sauti East Africa, Miller Center of Social Entrepreneurship, Santa Clara University
 - **Tools and Libraries**: We are grateful to the Sauti developers of the Sauti Platform Demonstration that made this project possible: [Interactive Demo](https://www.sautiafrica.org/sauti-services-products/sauti-trade-market-info-platform-demo/)
-- **Mentors and Advisors**: Special thanks to Lance Hadley, CEO of Sauti East Africa for his guidance and advice.
+- **Mentors and Advisors**: Special thanks to Lance Hadley, CEO of Sauti East Africa, for his guidance and advice.
 - **Community**: We appreciate the support and feedback from the Santa Clara University MS of Business Analytics community.
-
-Your contributions and support have been invaluable to the success of this project.
