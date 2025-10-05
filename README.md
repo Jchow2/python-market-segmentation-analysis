@@ -10,7 +10,7 @@ Sauti East Africa, a non-profit social enterprise, focuses on improving the live
 - [📖 **Project Description**](#project-description)
 - [🌟 **Requirements**](#requirements)
 - [⚙️ **Installation**](#installation)
-- [**Usage**](#usage)
+- [**Procedure**](#procedure)
 - [**Project Structure**](#project-structure)
 - [**Results**](#results)
 - [**Contributing**](#contributing)
@@ -121,9 +121,9 @@ pip install -r requirements.txt
 
 ---
 
-# **Usage**
+# **Procedure**
 
-To start the market segmentation analysis, run the relevant scripts as outlined below:
+This market segmentation analysis was ran with the relevant scripts as outlined below:
 
 1. **Data Preparation:** Prepare and clean the data using the `data_preparation.py` script:
 
@@ -156,7 +156,7 @@ python src/tsne_visualization.py
 python src/classification_model.py
 ```
 
-The results, including visualizations and data analysis, will be generated and saved in the appropriate directories.
+The results, including visualizations and data analysis, were generated and saved in this github repository.
 
 ---
 
@@ -164,9 +164,6 @@ The results, including visualizations and data analysis, will be generated and s
 
 ```bash
 /project-root
-    ├── data                     # Directory for raw and processed data
-    │   ├── raw                  # Raw data files
-    │   ├── processed            # Processed data files
     ├── notebooks                # Jupyter notebooks for exploration and analysis
     │   ├── sauti-exploratory-data-analysis.ipynb  # Notebook for exploratory data analysis
     ├── src                      # Source code for the project
