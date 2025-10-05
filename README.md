@@ -13,7 +13,6 @@ Sauti East Africa, a non-profit social enterprise, focuses on improving the live
 - [**Procedure**](#procedure)
 - [**Project Structure**](#project-structure)
 - [**Results**](#results)
-- [**Contributing**](#contributing)
 - [📜 **License**](#license)
 - [👩‍💻 **Acknowledgements**](#acknowledgements)
 
@@ -223,20 +222,6 @@ In this project, we utilize t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 - **Cluster Separation**: The clear separation suggests that t-SNE has effectively identified distinct groups, crucial for understanding different segments of traders and farmers.
 - **Cluster Density**: Densely packed clusters indicate that data points within each cluster share similar characteristics or behaviors.
 - **Cluster Size**: Varying cluster sizes suggest differences in the number of data points within each group, providing insights into the distribution of traders and farmers. Larger clusters may indicate more prevalent segments.
-
-# **Contributing**
-
-We welcome contributions to this project! If you would like to contribute, please follow these steps:
-
-```bash
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-```
-
-Please ensure that your code adheres to our coding standards and includes appropriate tests. Thank you for your contributions!
 
 # **License**
 This project is licensed under the MIT License.
