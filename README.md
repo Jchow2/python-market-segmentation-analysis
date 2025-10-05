@@ -1,8 +1,8 @@
 ![Partner Logo](partner_png.png)
 
-# **Sauti East Africa Customer Segmentation Analysis**
+# **Market Segmentation Clustering Analysis**
 
-Sauti East Africa, a non-profit social enterprise, focuses on improving the livelihoods of traders and farmers, and particularly women, in East Africa. They provide them with realtime market data through access to online digital resources. Sauti collect demographic data on these traders solutions, but never had a way to visualize the demographic data for researchers.
+A non-profit social enterprise is focused on improving the livelihoods of traders and farmers, and particularly women, in East Africa. They provide them with realtime market data through access to online digital resources. They collect demographic data on these traders solutions and develop visuals for researchers.
 
 ---
 
@@ -20,11 +20,11 @@ Sauti East Africa, a non-profit social enterprise, focuses on improving the live
 
 # 📖 **Project Description**
 
-Sauti has requested the Miller Center team to perform limited aggregate analysis of all of our user's behavior - on a project evaluation basis. Better understanding our user's interactions will allow Sauti to better optimize their menu design and explore the feasibility of smart menus based on user predicted behavior.
+This project performs limited aggregate analysis of all their user's behavior - on a project evaluation basis. Better understanding our user's interactions will allow for better optimization of their menu design and explore the feasibility of smart menus based on user predicted behavior.
 
 ## **Cluster Segmentation Model**
 
-The setup and structure of the clustering segmentation model was used in this project to identify distinct user segments based on demographic data and interaction behavior sourced from the Sauti platform. Sauti offers a range of information services to users in Kenya, Uganda, Rwanda, and Tanzania via a cellular network. Users access these services by dialing a shortcode and navigating through numbered menus. The platform, available in multiple languages, updates hourly with current information covering:
+The setup and structure of the clustering segmentation model was used in this project to identify distinct user segments based on demographic data and interaction behavior sourced from the non-profit platform. They offer a range of information services to users in Kenya, Uganda, Rwanda, and Tanzania via a cellular network. Users access these services by dialing a shortcode and navigating through numbered menus. The platform, available in multiple languages, updates hourly with current information covering:
 - Market Prices
 - Virtual Marketplace
 - Currency Exchange Rates
@@ -38,7 +38,7 @@ The setup and structure of the clustering segmentation model was used in this pr
 - Health Information
 - Corruption Reporting
 
-Sauti aims to bridge information gaps for micro, small, and medium enterprises (MSMEs), enhancing access to timely information. A clustering segmentation model can better assist Sauti's team in understanding their diverse user base and tailoring services to meet the specific needs of different market segments.
+This project's goal is to bridge information gaps for micro, small, and medium enterprises (MSMEs), enhancing access to timely information. A clustering segmentation model can allow teams to better understand their diverse user base and tailoring services to meet the specific needs of different market segments.
 
 ## **Methodology** 
 1. **Data Transformation:**
